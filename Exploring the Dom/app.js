@@ -91,4 +91,4 @@ allItemsOdd.forEach(function(item, index){
 //   console.log(script.getAttribute('src'));
 // });
 
-// console.log(val);
+console.log(val);
